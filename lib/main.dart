@@ -7,7 +7,7 @@ void main() {
 
 //this is function
 
-class MyApp extends StatelessWidget {
+clas MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   @override
